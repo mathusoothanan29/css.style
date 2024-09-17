@@ -1,0 +1,50 @@
+  <style>
+    table,th,td
+    {
+     border: 1px solid black;
+     background-color: antiquewhite;
+     font-size: large;
+    }
+    .colour
+    {
+        background-color: antiquewhite;
+        font-size: large;
+    }
+    .resume
+    {
+      background-color: aqua;
+      font-size: large;
+    }
+    .form
+    {
+    background-color: rgba(173, 162, 212, 0.822);
+    width: 50%;
+    padding: 100px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #0a0202;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  div {
+    border-radius: 5px;
+    background-color: #000000;
+    padding: 30px;
+  }
+    .img
+    {
+      display: block;
+      margin-left: 500px;
+      margin-bottom: 2000px;
+    }
+  </style>
